@@ -1,5 +1,5 @@
 {
-  "name": "s-kholman/pager",
+  "name": "kholman/pager",
   "description": "A library to split requests into multiple pages",
   "keywords": ["pager", "paginator", "pagination"],
   "homepage": "https://github.com/s-kholman/pager",
